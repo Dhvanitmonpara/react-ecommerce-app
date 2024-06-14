@@ -76,7 +76,7 @@ const ProductFullScreen = () => {
                   ${product.price || "Not found"}
                 </span>
                 <button className="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">
-                  Button
+                  Buy now
                 </button>
                 <button className="rounded-full w-10 h-10 bg-gray-800 p-0 border-0 inline-flex items-center justify-center text-gray-500 ml-4">
                   <svg

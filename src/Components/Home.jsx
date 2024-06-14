@@ -1,6 +1,8 @@
 import React from "react";
+import { useProducts } from "../context/productContext";
 
 const Home = () => {
+
   return (
     <section className="text-gray-400 bg-gray-900 body-font">
       <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
